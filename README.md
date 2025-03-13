@@ -29,7 +29,7 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
         <li>🌏 Based in Thailand</li>
         <li>⚡ Full-Stack Developer with IoT expertise</li>
         <li>🧠 Currently mastering Chinese & Elysia.js</li>
-        <li>🎮 Gaming enthusiast</li>
+        <li>💻 Continuously improving coding skills</li>
       </ul>
     </td>
     <td width="50%">
@@ -128,56 +128,6 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Gaming Interests
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Genshin_Impact-FFD700?style=for-the-badge&logo=hoyoverse&logoColor=white&labelColor=4B0082" alt="Genshin Impact" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Honkai_Star_Rail-6A5ACD?style=for-the-badge&logo=hoyoverse&logoColor=white&labelColor=4B0082" alt="Honkai Star Rail" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Honkai_Impact_3rd-FF69B4?style=for-the-badge&logo=hoyoverse&logoColor=white&labelColor=4B0082" alt="Honkai Impact 3rd" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Zenless_Zone_Zero-9400D3?style=for-the-badge&logo=hoyoverse&logoColor=white&labelColor=4B0082" alt="Zenless Zone Zero" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <details>
-    <summary><b>Favorite Games</b></summary>
-    <br>
-    <table>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Genshin_Impact-FFD700?style=for-the-badge" alt="Genshin Impact"/></td>
-        <td>Favorite characters: Raiden Shogun, Ayaka</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Star_Rail-6A5ACD?style=for-the-badge" alt="Star Rail"/></td>
-        <td>Favorite characters: Silver Wolf, Kafka</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Honkai-FF69B4?style=for-the-badge" alt="Honkai"/></td>
-        <td>Favorite character: Herrscher of Thunder</td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/ZZZ-9400D3?style=for-the-badge" alt="ZZZ"/></td>
-        <td>Favorite character: Belle</td>
-      </tr>
-    </table>
-  </details>
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Current Projects
 
 <div align="center">
@@ -220,6 +170,8 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Machine-14&theme=tokyonight&border=7B68EE&dates=FFD700&background=0D1117" />
   
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Machine-14&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
 </div>
 
 ---
@@ -233,4 +185,127 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
         <h3 align="center">Smart Home IoT Hub</h3>
         <div align="center">
           <a href="https://github.com/Machine-14/smart-home-hub" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4
+            <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live-7B68EE?style=for-the-badge&logo=googlehome&logoColor=white" alt="Live" />
+          </a>
+        </div>
+        <p align="center">
+          Smart home automation system built with ESP32, MQTT, and React dashboard for controlling lights, temperature, and security.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">E-Commerce Platform</h3>
+        <div align="center">
+          <a href="https://github.com/Machine-14/ecommerce-platform" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live-7B68EE?style=for-the-badge&logo=shopify&logoColor=white" alt="Live" />
+          </a>
+        </div>
+        <p align="center">
+          Modern e-commerce solution with Next.js, TypeScript, and MySQL featuring real-time inventory tracking and payment processing.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Weather Station Network</h3>
+        <div align="center">
+          <a href="https://github.com/Machine-14/weather-station" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live-7B68EE?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live" />
+          </a>
+        </div>
+        <p align="center">
+          Distributed weather monitoring system using Arduino sensors, LoRaWAN, and cloud data visualization.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Task Management App</h3>
+        <div align="center">
+          <a href="https://github.com/Machine-14/task-manager" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live-7B68EE?style=for-the-badge&logo=react&logoColor=white" alt="Live" />
+          </a>
+        </div>
+        <p align="center">
+          Collaborative task management application with React, Firebase, and real-time synchronization features.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Achievements & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS_Solution_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Google_Cloud_Developer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IoT_Hackathon_Winner-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT Hackathon"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Full_Stack_Champion-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Community_Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Links" width="25" height="25" /> Connect With Me
+
+<div align="center">
+  
+  <a href="mailto:tanapoomjaroenkulpanit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4B0082" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/tanapoom.jaroenkunpanit/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4B0082" alt="Facebook" />
+  </a>
+  <a href="https://www.github.com/Machine-14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/tanapoom-jaroenkulpanit">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4B0082" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/tanapoom_j">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=4B0082" alt="Twitter" />
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/jyMrM0Q.gif" alt="Element Divider" height="3" width="100%">
+  
+  <br/>
+  <i>"Building innovative solutions through code and creativity."</i>
+  <br/>
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+</div>
