@@ -15,35 +15,6 @@
 
 Greetings, Traveler! I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer navigating through the digital world much like exploring the vast realms of Teyvat. Whether crafting elegant web solutions or developing IoT innovations, I bring the same dedication as completing challenging domains in Genshin Impact.
 
-## 🎮 Gaming Passions
-
-<div align="center">
-  
-**Devoted player of all Hoyoverse games**
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Greetings, Traveler!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shooting%20Star.png" alt="star" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="milky way" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shooting%20Star.png" alt="star" width="30" height="30" />
-  
-  ## **Tanapoom Jaroenkulpanit**
-  *"Ad Astra Abyssosque"*
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Character Card" width="25" height="25" /> Character Profile
-
-<table>
-  <tr>
-    <td>
-      <b>Vision:</b> Web Developer & IoT Developer<br/>
-      <b>Constellation:</b> Full-Stack Artisan<br/>
-      <b>Affiliation:</b> Dedicated Hoyoverse Enthusiast
-    </td>
-  </tr>
-</table>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="25" height="25" /> Tech Arsenal
 
 <div align="center">
