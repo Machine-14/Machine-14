@@ -6,7 +6,6 @@
 
 ![Web Developer](https://img.shields.io/badge/Web_Developer-000000?style=for-the-badge&logo=webflow&logoColor=white&labelColor=4B0082)
 ![IoT Developer](https://img.shields.io/badge/IoT_Developer-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=4B0082)
-![Visitor Count](https://komarev.com/ghpvc/?username=Machine-14&color=blueviolet&style=flat-square)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=Web+Developer;IoT+Specialist;Full-Stack+Engineer" alt="Typing SVG" />
 
@@ -18,7 +17,7 @@
   <img src="https://i.imgur.com/jyMrM0Q.gif" alt="Element Divider" height="3" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkles.png" alt="Sparkles" width="25" height="25" /> About Me
+## ✨ About Me
 
 I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creating innovative digital solutions. With experience in both front-end and back-end technologies, I specialize in building responsive web applications and IoT systems that solve real-world problems.
 
@@ -65,7 +64,7 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -128,26 +127,26 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Current Projects
+## 🚀 Learning Projects
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Priority-9370DB?style=for-the-badge" alt="High Priority"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Learning-9370DB?style=for-the-badge" alt="Learning"/></td>
       <td>Advanced React Component Architecture</td>
       <td>
         <img src="https://progress-bar.dev/30/?width=100&color=9370DB" alt="Progress">
       </td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Active-4B0082?style=for-the-badge" alt="Active"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Exploring-4B0082?style=for-the-badge" alt="Exploring"/></td>
       <td>Smart Home Automation System</td>
       <td>
         <img src="https://progress-bar.dev/40/?width=100&color=4B0082" alt="Progress">
       </td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Learning-B22222?style=for-the-badge" alt="Learning"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Studying-B22222?style=for-the-badge" alt="Studying"/></td>
       <td>Machine Learning for IoT Applications</td>
       <td>
         <img src="https://progress-bar.dev/20/?width=100&color=B22222" alt="Progress">
@@ -158,7 +157,7 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -169,74 +168,60 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
   
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Machine-14&theme=tokyonight&border=7B68EE&dates=FFD700&background=0D1117" />
   
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Machine-14&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Featured Projects
+## 📝 Project Repositories
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Smart Home IoT Hub</h3>
+        <h3 align="center">IoT Projects</h3>
         <div align="center">
-          <a href="https://github.com/Machine-14/smart-home-hub" target="_blank">
+          <a href="https://github.com/Machine-14/iot-projects" target="_blank">
             <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-7B68EE?style=for-the-badge&logo=googlehome&logoColor=white" alt="Live" />
           </a>
         </div>
         <p align="center">
-          Smart home automation system built with ESP32, MQTT, and React dashboard for controlling lights, temperature, and security.
+          Collection of my IoT experiments and learning projects using ESP32, MQTT, and various sensors.
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">E-Commerce Platform</h3>
+        <h3 align="center">Web Development</h3>
         <div align="center">
-          <a href="https://github.com/Machine-14/ecommerce-platform" target="_blank">
+          <a href="https://github.com/Machine-14/web-projects" target="_blank">
             <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-7B68EE?style=for-the-badge&logo=shopify&logoColor=white" alt="Live" />
           </a>
         </div>
         <p align="center">
-          Modern e-commerce solution with Next.js, TypeScript, and MySQL featuring real-time inventory tracking and payment processing.
+          Web development practice projects using React, TypeScript, and various frameworks.
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Weather Station Network</h3>
+        <h3 align="center">Learning Resources</h3>
         <div align="center">
-          <a href="https://github.com/Machine-14/weather-station" target="_blank">
+          <a href="https://github.com/Machine-14/learning-resources" target="_blank">
             <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-7B68EE?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live" />
           </a>
         </div>
         <p align="center">
-          Distributed weather monitoring system using Arduino sensors, LoRaWAN, and cloud data visualization.
+          My collection of learning materials, code samples, and tutorials I've found helpful.
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Task Management App</h3>
+        <h3 align="center">Personal Portfolio</h3>
         <div align="center">
-          <a href="https://github.com/Machine-14/task-manager" target="_blank">
+          <a href="https://github.com/Machine-14/portfolio" target="_blank">
             <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-7B68EE?style=for-the-badge&logo=react&logoColor=white" alt="Live" />
           </a>
         </div>
         <p align="center">
-          Collaborative task management application with React, Firebase, and real-time synchronization features.
+          Source code for my personal portfolio website showcasing my skills and projects.
         </p>
       </td>
     </tr>
@@ -245,38 +230,7 @@ I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creati
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Achievements & Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AWS_Solution_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Google_Cloud_Developer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/IoT_Hackathon_Winner-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT Hackathon"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Full_Stack_Champion-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Community_Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Links" width="25" height="25" /> Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
   
