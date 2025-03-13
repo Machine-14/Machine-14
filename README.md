@@ -1,265 +1,94 @@
-<div align="center">
+# Hi 👋 My name is Tanapoom Jaroenkulpanit
 
-# TANAPOOM JAROENKULPANIT
+## Web Developer & IoT Developer
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30"/>
+I'm Tanapoom Jaroenkulpanit, a Web and IoT Developer passionate about creating innovative digital solutions.
 
-![Web Developer](https://img.shields.io/badge/Web_Developer-000000?style=for-the-badge&logo=webflow&logoColor=white&labelColor=4B0082)
-![IoT Developer](https://img.shields.io/badge/IoT_Developer-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=4B0082)
+* 🌍 I'm based in Thailand
+* ✉️ You can contact me at [tanapoomjaroenkulpanit@gmail.com](mailto:tanapoomjaroenkulpanit@gmail.com)
+* 🧠 I'm learning Chinese, Elysia.js
+* ⚡ I love playing gacha games especially all of Hoyoverse games
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=Web+Developer;IoT+Specialist;Full-Stack+Engineer" alt="Typing SVG" />
+## Skills
 
-</div>
+### Programming Languages & Tools
 
----
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-<div align="center">
-  <img src="https://i.imgur.com/jyMrM0Q.gif" alt="Element Divider" height="3" width="100%">
-</div>
+### Frontend Development
 
-## ✨ About Me
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer passionate about creating innovative digital solutions. With experience in both front-end and back-end technologies, I specialize in building responsive web applications and IoT systems that solve real-world problems.
+### Backend Development
 
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>🌏 Based in Thailand</li>
-        <li>⚡ Full-Stack Developer with IoT expertise</li>
-        <li>🧠 Currently mastering Chinese & Elysia.js</li>
-        <li>💻 Continuously improving coding skills</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+</p>
 
-<div align="right">
-  <details>
-    <summary><b>Professional Profile</b></summary>
-    <br>
-    <table>
-      <tr>
-        <td>Specialization</td>
-        <td>Full-Stack Development</td>
-      </tr>
-      <tr>
-        <td>Focus Areas</td>
-        <td>Web Development, IoT Systems</td>
-      </tr>
-      <tr>
-        <td>Experience</td>
-        <td>Project Architecture, System Integration</td>
-      </tr>
-      <tr>
-        <td>Tools</td>
-        <td>Modern Development Environments</td>
-      </tr>
-    </table>
-  </details>
-</div>
+### IoT Development
 
----
+<p align="left">
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
+<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+</p>
 
-## 🛠️ Technical Skills
+## Learning Projects
 
-<div align="center">
+I'm currently working on several learning projects to improve my skills:
 
-### Front-End Technologies
-  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
+- Advanced React Component Architecture
+- Smart Home Automation using ESP32
+- Machine Learning for IoT Applications
 
-### Back-End Technologies
-  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
-  ![Elysia.js](https://img.shields.io/badge/Elysia.js-E91E63?style=for-the-badge&logo=elysia&logoColor=white&labelColor=0D1117)
+## Connect With Me
 
-### Development Tools
-  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)
+<p align="left">
+<a href="https://www.facebook.com/tanapoom.jaroenkunpanit/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+</picture>
+</a>
+<a href="https://www.github.com/Machine-14" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</picture>
+</a>
+</p>
 
-### IoT Technologies
-  
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117)
-  ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117)
-  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=0D1117)
-  
-</div>
+## GitHub Stats
 
-<div align="center">
-  <details>
-    <summary><b>Skill Proficiency</b></summary>
-    <br>
-    <table>
-      <tr>
-        <td>Front-End Development</td>
-        <td><img src="https://progress-bar.dev/80/?width=400&color=7B68EE" alt="Front-End Skills"></td>
-      </tr>
-      <tr>
-        <td>Back-End Development</td>
-        <td><img src="https://progress-bar.dev/70/?width=400&color=7B68EE" alt="Back-End Skills"></td>
-      </tr>
-      <tr>
-        <td>IoT Development</td>
-        <td><img src="https://progress-bar.dev/80/?width=400&color=7B68EE" alt="IoT Development Skills"></td>
-      </tr>
-      <tr>
-        <td>System Architecture</td>
-        <td><img src="https://progress-bar.dev/60/?width=400&color=7B68EE" alt="System Design Skills"></td>
-      </tr>
-    </table>
-  </details>
-</div>
+<a href="http://www.github.com/Machine-14">
+  <img src="https://github-readme-stats.vercel.app/api?username=Machine-14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Machine-14's GitHub stats" />
+</a>
 
----
-
-## 🚀 Learning Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Learning-9370DB?style=for-the-badge" alt="Learning"/></td>
-      <td>Advanced React Component Architecture</td>
-      <td>
-        <img src="https://progress-bar.dev/30/?width=100&color=9370DB" alt="Progress">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Exploring-4B0082?style=for-the-badge" alt="Exploring"/></td>
-      <td>Smart Home Automation System</td>
-      <td>
-        <img src="https://progress-bar.dev/40/?width=100&color=4B0082" alt="Progress">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Studying-B22222?style=for-the-badge" alt="Studying"/></td>
-      <td>Machine Learning for IoT Applications</td>
-      <td>
-        <img src="https://progress-bar.dev/20/?width=100&color=B22222" alt="Progress">
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <a href="https://github.com/Machine-14">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Machine-14&show_icons=true&theme=tokyonight&border_color=7B68EE&icon_color=FFD700&title_color=7B68EE&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-14&layout=compact&theme=tokyonight&border_color=7B68EE&title_color=7B68EE&bg_color=0D1117" />
-  </a>
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Machine-14&theme=tokyonight&border=7B68EE&dates=FFD700&background=0D1117" />
-  
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
-</div>
-
----
-
-## 📝 Project Repositories
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">IoT Projects</h3>
-        <div align="center">
-          <a href="https://github.com/Machine-14/iot-projects" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>
-        </div>
-        <p align="center">
-          Collection of my IoT experiments and learning projects using ESP32, MQTT, and various sensors.
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Web Development</h3>
-        <div align="center">
-          <a href="https://github.com/Machine-14/web-projects" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>
-        </div>
-        <p align="center">
-          Web development practice projects using React, TypeScript, and various frameworks.
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Learning Resources</h3>
-        <div align="center">
-          <a href="https://github.com/Machine-14/learning-resources" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>
-        </div>
-        <p align="center">
-          My collection of learning materials, code samples, and tutorials I've found helpful.
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Personal Portfolio</h3>
-        <div align="center">
-          <a href="https://github.com/Machine-14/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>
-        </div>
-        <p align="center">
-          Source code for my personal portfolio website showcasing my skills and projects.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  
-  <a href="mailto:tanapoomjaroenkulpanit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4B0082" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/tanapoom.jaroenkunpanit/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4B0082" alt="Facebook" />
-  </a>
-  <a href="https://www.github.com/Machine-14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/tanapoom-jaroenkulpanit">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4B0082" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tanapoom_j">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=4B0082" alt="Twitter" />
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://i.imgur.com/jyMrM0Q.gif" alt="Element Divider" height="3" width="100%">
-  
-  <br/>
-  <i>"Building innovative solutions through code and creativity."</i>
-  <br/>
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
-</div>
+<a href="https://github.com/Machine-14" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
