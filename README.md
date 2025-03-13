@@ -21,5 +21,64 @@ Greetings, Traveler! I'm **Tanapoom Jaroenkulpanit**, a Web and IoT Developer na
   
 **Devoted player of all Hoyoverse games**
 
-<img src="https://img.shields.io/badge/Genshin_Impact-FFD700?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+BMXTsAAAAJXRSTlMABmSq0vAEgtnzHqP4JYz2Fpb0A3LN9SWW8xKH3fEKkPMcpeIvGE+aZAAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfkAQUNJxZiJEibAAAAX0lEQVQI12NgAANGJmYWBhTAysbOwQkXZ+HiZsAF+Bj4oQIC7FAxQSFhEVExcQlJKWkZWTl5BUUlZRVVNXUNTS0GbR1dPX0DQyNjE1MzcwsLSytLaxsbWzsHRydnF1cAKfEHGzYCKn8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMDVUMTM6Mzk6MjIrMDA6MDAp9GZ5AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTA1VDEzOjM5OjIyKzAwOjAwWKneRQAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk/LzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxf7TQo0lwAAAABJRU5ErkJggg==&logoColor=white"/>
-<img src="https://img.shields.io/badge/Honkai:_Star_Rail-6A0DAD?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAflBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+yfIzaAAAAKXRSTlMADBs2V3eIZksnEgKZ6P2vHQWe9v67JwOj+MArBqj6xC4Hrf3KMQix/szbw7UAAAABYktHRACIBR1IAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AEFDScWYiRImwAAAGJJREFUCNdjYAADRiZmFgYUwMrGzsGJF3BxQwXYeXj5+AUEhYRFRMXEJSSlpGVk5eQVFJWUGVTU1DU0tbR1dPX0DQyNjE1MzcwtLK2sbWzt7B0cnZxdXN3cPTy9vH18/QC4pwgxgkC2ZAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0wNVQxMzozOToyMiswMDowMCn0ZnkAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMDVUMTM6Mzk6MjIrMDA6MDBYqd5FAAAEcnpUWHRSYXcgcHJvZmlsZSB0eXBlIGV4aWYAAHjatVjrkew4CvzPKfYIICHEcSCsmd0b7PG3wO7qR6a7JxOzX9luu2wDEkIpIbr9n38f9y8euVjnY8klluB5lFJcw0Fxns/V72Tzcb+PFN7/xP3r9fCY4LiEuKY+fxvG64fBxzIf4+19fThxnaMaf0yUxt7x+fPNvOb7mqj5dZ6qna+0Xtf4mtBPzPOSx+X3WyhkdmGZnLnk4vzrGt2nCWN9CzrP2XYu+a1P5HuRlnZ8F3SPvzgfnm0/OOTDpO/HXmQ+XeDlMWhZzkXf5unV3b+YZ+Ifrn8z8HvL30V+jn8m/BzV2zyzn89dVeyOJbrhSdF7KvG1Yuw73I3Isav8KtnfzP84ttdjr8fuiQ1mchhKnGx6DauXccrhHI5jtSuu9Ty3sczNrtUUd9nE6E2JvYfaYnEtJU+xKwA2m9NcVrn6Pt1YHGsL57vuxjZjcdfG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
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Greetings, Traveler!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shooting%20Star.png" alt="star" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="milky way" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shooting%20Star.png" alt="star" width="30" height="30" />
+  
+  ## **Tanapoom Jaroenkulpanit**
+  *"Ad Astra Abyssosque"*
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Character Card" width="25" height="25" /> Character Profile
+
+<table>
+  <tr>
+    <td>
+      <b>Vision:</b> Web Developer & IoT Developer<br/>
+      <b>Constellation:</b> Full-Stack Artisan<br/>
+      <b>Affiliation:</b> Dedicated Hoyoverse Enthusiast
+    </td>
+  </tr>
+</table>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="25" height="25" /> Tech Arsenal
+
+<div align="center">
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Elysia.js](https://img.shields.io/badge/Elysia.js-E91E63?style=for-the-badge&logo=elysia&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Gaming Passions
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Genshin_Impact-FFD700?style=for-the-badge&logo=hoyoverse&logoColor=white" alt="Genshin Impact" />
+  <img src="https://img.shields.io/badge/Honkai_Star_Rail-6A5ACD?style=for-the-badge&logo=hoyoverse&logoColor=white" alt="Honkai Star Rail" />
+  <img src="https://img.shields.io/badge/Honkai_Impact_3rd-FF69B4?style=for-the-badge&logo=hoyoverse&logoColor=white" alt="Honkai Impact 3rd" />
+  <img src="https://img.shields.io/badge/Zenless_Zone_Zero-9400D3?style=for-the-badge&logo=hoyoverse&logoColor=white" alt="Zenless Zone Zero" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Every journey has its final day. Don't rush."</i>
+</div>
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Japanese%20Symbol%20for%20Beginner.png" alt="Beginner" width="50" height="50" />
+</div>
